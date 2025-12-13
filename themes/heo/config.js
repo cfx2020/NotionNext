@@ -66,7 +66,7 @@ const CONFIG = {
     {
       title_1: 'gaussian',
       img_1: '/images/heo/gaussian.png',
-      color_1: '#989bf8',
+      color_1: '#ffffff',
       title_2: 'orca',
       img_2: '/images/heo/orca.svg',
       color_2: '#ffffff'
@@ -90,14 +90,14 @@ const CONFIG = {
     {
       title_1: 'multiwfn',
       img_1: '/images/heo/multiwfn.webp',
-      color_1: '#eb6840',
+      color_1: '#3f0375',
       title_2: 'iboview',
       img_2: '/images/heo/iboview.png',
       color_2: '#8f55ba'
     },
     {
       title_1: 'chemdraw',
-      img_1: '/images/heo/chemdraw.webp',
+      img_1: '/images/heo/chemdraw.png',
       color_1: '#f29e39',
       title_2: 'Avogadro2',
       img_2: '/images/heo/Avogadro2.png',
@@ -106,18 +106,18 @@ const CONFIG = {
     {
       title_1: 'zotero',
       img_1: '/images/heo/zotero.webp',
-      color_1: '#f7cb4f',
+      color_1: '#ffffff',
       title_2: 'cylview',
       img_2: '/images/heo/cylview.png',
-      color_2: '#e9572b'
+      color_2: '#ffffff'
     },
     {
       title_1: 'anaconda',
       img_1: '/images/heo/Anaconda.png',
-      color_1: '#df5b40',
+      color_1: '#ffffff',
       title_2: 'latex',
       img_2: '/images/heo/latex.jpg',
-      color_2: '#1f1f1f'
+      color_2: '#ffffff'
     }
   ],
 
