@@ -90,7 +90,7 @@ const CONFIG = {
     {
       title_1: 'multiwfn',
       img_1: '/images/heo/multiwfn.webp',
-      color_1: '#3f0375',
+      color_1: '#400375',
       title_2: 'iboview',
       img_2: '/images/heo/iboview.png',
       color_2: '#8f55ba'
